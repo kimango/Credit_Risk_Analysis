@@ -3,7 +3,7 @@
 ## Overview of the analysis: 
   For this data analysis project, multiple machine learning are used to predict credit risk. 
 
-## Results: Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all six machine learning models. Use screenshots of your outputs to support your results.
+## Results:
   * Smote Model
   * Smoteenn Model
   * ClusterCentroid Model
